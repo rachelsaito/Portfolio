@@ -1,0 +1,26 @@
+body,h1 {
+    font-family: "Montserrat" sans-serif
+}
+
+body{
+    background-color:thistle;
+}
+
+img {
+    margin: 5%;
+    padding: 5%;
+}
+
+.w3-row-padding img {
+    margin: 5%;
+    padding: 5%;
+}
+
+#bigPhoto {
+    float: left;
+}
+
+#smallPhoto {
+    float: right;
+}
+
